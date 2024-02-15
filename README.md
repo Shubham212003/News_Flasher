@@ -4,13 +4,16 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter app.
+# Output 
+![1707987794107](https://github.com/Shubham212003/News_Flasher/assets/125812919/994fecd4-8231-4d75-aa7f-ba209da12780)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1707987794086](https://github.com/Shubham212003/News_Flasher/assets/125812919/da3e316e-e81a-4d06-a5c5-373e94508c44)
+![1707987794064](https://github.com/Shubham212003/News_Flasher/assets/125812919/afaae483-92fc-4b64-9ffb-10c3dcc562ae)
+![1707987794043](https://github.com/Shubham212003/News_Flasher/assets/125812919/297191bf-8ea7-4908-8b8c-4145eba4104b)
+![1707987794022](https://github.com/Shubham212003/News_Flasher/assets/125812919/96ff21b6-67e4-4fe3-b4d2-4e2249e2c0eb)
+![1707987794000](https://github.com/Shubham212003/News_Flasher/assets/125812919/91a5af17-ab09-4bcc-a8bd-b3f5342197c0)
+![1707987793979](https://github.com/Shubham212003/News_Flasher/assets/125812919/6dfa8462-614c-4811-a984-79f495c981ce)
+![1707987793959](https://github.com/Shubham212003/News_Flasher/assets/125812919/83721023-5211-4910-8789-52895e4b9293)
+![1707987793939](https://github.com/Shubham212003/News_Flasher/assets/125812919/c2e04556-8f8a-4d5d-9ae8-c2450bb4e3f0)
+![1707987793910](https://github.com/Shubham212003/News_Flasher/assets/125812919/a41b6217-d63a-4005-89b9-bab5cb8d3d13)
